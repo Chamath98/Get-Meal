@@ -1,2 +1,2 @@
 # Get-Meal
-An online food ordering system with a website and an android application.
+An online food ordering system to replace the traditional system.
